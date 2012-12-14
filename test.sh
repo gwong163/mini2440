@@ -1,0 +1,1 @@
+gcc main.c cpu.c -o main -O0 -g
